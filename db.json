@@ -1,0 +1,22 @@
+{
+  "TODOS": {
+    "TODOS": [
+      {
+        "text": "やること",
+        "isComplete": false
+      },
+      {
+        "text": "買い物",
+        "isComplete": false
+      },
+      {
+        "text": "宿題",
+        "isComplete": false
+      },
+      {
+        "text": "皿洗い",
+        "isComplete": true
+      }
+    ]
+  }
+}
