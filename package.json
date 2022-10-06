@@ -1,5 +1,5 @@
 {
-  "name": "crud-todo",
+  "name": "react-crud-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
